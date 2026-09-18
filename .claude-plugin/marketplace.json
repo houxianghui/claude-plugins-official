@@ -1592,7 +1592,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/firecrawl/firecrawl-claude-plugin.git",
-        "sha": "998fc11580f3edda3488a4b579ddbebf6600651f"
+        "sha": "ed0161455938240010539e2cefb7b785352b3746"
       },
       "homepage": "https://github.com/firecrawl/firecrawl-claude-plugin.git"
     },
