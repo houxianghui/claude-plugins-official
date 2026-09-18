@@ -1996,7 +1996,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/gemini-cli-extensions/knowledge-catalog.git",
-        "sha": "930d73cfbb8e0637d79cb335ff0b8d80af383bd8"
+        "sha": "fdc3b206d59d390269de608a3bcf475d2c8829c0"
       },
       "homepage": "https://github.com/gemini-cli-extensions/knowledge-catalog"
     },
