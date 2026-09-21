@@ -3109,7 +3109,7 @@
         "url": "https://github.com/railwayapp/railway-skills.git",
         "path": "plugins/railway",
         "ref": "main",
-        "sha": "950acebcef3445f3915ea0709876c3ba9c237a7f"
+        "sha": "f974bbb9c1ab688e93d7d2c1d43b7ae162c931da"
       },
       "homepage": "https://docs.railway.com/ai/claude-code-plugin"
     },
