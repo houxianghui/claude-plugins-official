@@ -3674,7 +3674,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/gemini-cli-extensions/spanner.git",
-        "sha": "a69b5f3449387a851648f8bd9be58d0b27e0411c"
+        "sha": "b2e4f26f985eed7334038634a9a09cd799b01bab"
       },
       "homepage": "https://github.com/gemini-cli-extensions/spanner"
     },
