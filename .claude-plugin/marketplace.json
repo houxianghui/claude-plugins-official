@@ -3414,7 +3414,7 @@
         "url": "https://github.com/SAP/open-ux-tools.git",
         "path": "plugins-coding-agents/fiori",
         "ref": "main",
-        "sha": "08afc41ddb24c1be3142c4fe609971c7f3501ca1"
+        "sha": "a662d24586156f910897023dafc6b7d27b4ecc7b"
       },
       "homepage": "https://github.com/SAP/open-ux-tools/tree/main/plugins-coding-agents/fiori"
     },
